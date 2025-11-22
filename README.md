@@ -5,6 +5,6 @@ There is no currently only support for data gathered in a fashion exactly like t
 
 1. Create a cleaned google sheet with names above each column of death counts.
 2. Download it as a csv.
-3. Mount it to the google notebook bby changing the file location within the ipynb script, labelled <# CHANGE THIS TO YOUR CSV>.
+3. Mount it to the google notebook by changing the file location within the ipynb script, labelled <# CHANGE THIS TO YOUR CSV>.
 4. Connect to a runtime and click Run All in the top left.
 5. Your graph(s) will be produced in the output.
